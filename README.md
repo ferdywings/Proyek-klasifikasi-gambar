@@ -1,9 +1,9 @@
 # Proyek-klasifikasi-gambar
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk mengklasifikasikan gambar-gambar alam menjadi beberapa kategori menggunakan dataset Intel Image Classification. Dataset ini terdiri dari gambar-gambar yang dikelompokkan ke dalam beberapa kelas seperti gunung, laut, hutan, dan lainnya. Proyek ini menggunakan teknik deep learning dengan model convolutional neural network (CNN) untuk melakukan klasifikasi.
-Nama: Ferdy Fitriansyah Rowi
-Email: mc189d5y0459@student.devacademy.id
-ID Dicoding: MC189D5Y0459
+- Nama: Ferdy Fitriansyah Rowi
+- Email: mc189d5y0459@student.devacademy.id
+- ID Dicoding: MC189D5Y0459
 
 ## Dataset
 Dataset yang digunakan dalam proyek ini adalah Intel Image Classification, yang dapat diunduh dari Kaggle. Dataset ini terdiri dari gambar-gambar dengan berbagai kategori, termasuk:
